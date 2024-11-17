@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="textContactsPermBTN">Получить доступ к контактам</string>
+    <string name="textCameraPermBTN">Получить доступ к камере</string>
+    <string name="textNameTV">Имя</string>
+    <string name="textPhoneTV">Телефон</string>
+    <string name="titleMenuExit">Выход</string>
+</resources>
